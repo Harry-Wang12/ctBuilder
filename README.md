@@ -1,4 +1,4 @@
-# ctBuilder: A framework for building pathway crosstalks by combining single cell data with bulk cell data
+# ctBuilder: A framework for building pathway crosstalks by combining single cell data with bulk cell data using feature selection
 
 ## Abstract
 
